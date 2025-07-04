@@ -1,0 +1,15 @@
+# Samsung Instagram Sentiment Analysis (SQL Project)
+
+This project analyzes sentiment and engagement data from 100 Instagram posts related to Samsung mobile phones.
+
+## Features
+- SQL table creation and data ingestion
+- Analytical SQL queries to uncover insights:
+  - Sentiment distribution
+  - Top models by popularity
+  - Influencer engagement
+  - Monthly sentiment trends
+##  Getting Started
+1. Create a database (SQLite, MySQL, or PostgreSQL)
+2. Run `create_table.sql` and import the data
+3. Run the queries from `sentiment_analysis_queries.sql`
